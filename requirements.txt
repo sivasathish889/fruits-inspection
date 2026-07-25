@@ -1,0 +1,11 @@
+tensorflow>=2.19.0
+keras>=3.0.0
+opencv-python
+matplotlib
+seaborn
+scikit-learn
+pandas
+numpy
+psutil
+kagglehub
+notebook
